@@ -1,0 +1,19 @@
+*  {
+    text-align: center;
+}
+
+#principal {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.estilo-titulo {
+    font-size: 3vw;
+    font-weight: 800;
+}
+
+.estilo-texto {
+    font-size: 2vw;
+}
